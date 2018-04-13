@@ -1,0 +1,11 @@
+{
+  "name": "QLNH",
+  "version": "0.0.1",
+  "private": "true",
+  "main" : "index.js",
+  "dependencies": {
+    "express": "*",
+    "socket.io": "*",
+    "socketio-file-upload": "^0.4.4"
+  }
+}
